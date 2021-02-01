@@ -4,7 +4,7 @@ A personal project to apply theoretical knowledge of data collection, cleaning, 
 ## Owner  
 Sneha Verma
 
-## Languagees:
+## Languages:
 * R
 * Python
 
